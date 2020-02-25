@@ -1,0 +1,5 @@
+classes= 213
+train  = ./data/train/train.txt
+valid  = ./data/train/train.txt
+names = ./data/train/voc.names
+backup = backup
